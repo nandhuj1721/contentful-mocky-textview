@@ -18,6 +18,10 @@
     "@angular/platform-browser": "~12.1.0",
     "@angular/platform-browser-dynamic": "~12.1.0",
     "@angular/router": "~12.1.0",
+    "@contentful/rich-text-html-renderer": "^15.4.0",
+    "bootstrap": "^5.1.1",
+    "contentful": "^9.0.0",
+    "marked": "^3.0.4",
     "rxjs": "~6.6.0",
     "tslib": "^2.2.0",
     "zone.js": "~0.11.4"
